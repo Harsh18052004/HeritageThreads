@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      { "source": "/login", "destination": "/login.html" },
-      { "source": "/search", "destination": "/search.html" },
-      { "source": "/products", "destination": "/products.html" },
-      { "source": "/", "destination": "/index.html" }
-    ]
+  "routes": [
+    { "src": "/login", "dest": "/Login/login.html" },
+    { "src": "/search", "dest": "/Search/search.html" },
+    { "src": "/products", "dest": "/Products/products.html" },
+    { "src": "/", "dest": "/Home/index.html" }
+  ]
 }
-  
