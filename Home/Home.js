@@ -245,7 +245,7 @@ sectionHeader.forEach(element => {
         end: 'bottom 50%',
         toggleActions: 'play none none reverse',
         animation: tl,
-        markers: true,
+        // markers: true,
         scrub: 1
     })
 
