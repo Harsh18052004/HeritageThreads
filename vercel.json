@@ -2,7 +2,7 @@
   "routes": [
     { "src": "/login", "dest": "/Login/login.html" },
     { "src": "/search", "dest": "/Search/search.html" },
-    { "src": "/products", "dest": "/Products/products.html" },
+    { "src": "/products", "dest": "/Products/product.html" },
     { "src": "/", "dest": "/Home/index.html" }
   ]
 }
