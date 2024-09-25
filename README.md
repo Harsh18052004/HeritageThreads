@@ -23,7 +23,27 @@ You can view the live site here: https://heritage-threads.vercel.app/
 
 ## Installation
 
-1. Clone the repository: git@github.com:HarshBti/HeritageThreads.git
-2. Navigate to the repositry : cd HeritageThreads
-3. Further Navigate to home repositry: cd Home
+1. Clone the repository: `git clone git@github.com:HarshBti/HeritageThreads.git`
+2. Navigate to the repositry : `cd HeritageThreads`
+3. Further Navigate to home repositry: `cd Home`
 4. Run the Project : Open the index.html using live server.
+
+## Key Components 
+
+1. Animations: Scroll animations trigger effects on different sections of the page using GSAP’s ScrollTrigger plugin, including fade-ins, slides, and reveal effects.
+2. Swiper Gallery: Fashion collections are displayed using Swiper JS for a responsive, touch-friendly carousel.
+
+## Future Improvements
+
+1. Product Filters: Add category filters for users to explore specific types of ethnic fashion (sarees, kurtas, lehengas, etc.).
+2. E-commerce Integration: In the future, an integrated shopping cart and payment gateway could be added to transform the website into a full-fledged e-commerce platform.
+3. Backend Integration: Implement a backend for dynamic content management and product updates.
+
+## Contributing
+
+Contributions are welcome! If you’d like to add new features, fix bugs, or improve the design, feel free to fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+`You can adapt this further based on any additional features or specific details of the Heritage Threads project.`
